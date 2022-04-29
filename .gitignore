@@ -138,3 +138,6 @@ dmypy.json
 cython_debug/
 
 .yaml
+.yaml/
+yaml/
+*.yaml
